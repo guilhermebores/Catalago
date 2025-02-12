@@ -291,7 +291,7 @@ section .card-item {
 
 .right p {
   max-width: 90%;
-  font-size: 1em;
+  font-size: 1rem;
   letter-spacing: 2px;
   text-align: right;
   color: rgba(0, 0, 0, 4);
